@@ -15,3 +15,8 @@ In this repo, we will learn:
 - How to deploy a LLM model/and query it
 - How to retrain a LLM model
 - How to use a LLM model in a real world application
+
+
+https://docs.privategpt.dev/installation
+
+https://github.com/abetlen/llama-cpp-python
